@@ -42,7 +42,7 @@ sudo yum install wget  # or dnf install wget
 
 1. **Download the script:**
    ```bash
-   curl -fsSL -o dl_gitbook_simple.sh https://raw.githubusercontent.com/YOUR_REPO/ai_gitbook_download/main/dl_gitbook_simple.sh
+   curl -fsSL -o dl_gitbook_simple.sh https://raw.githubusercontent.com/Grynvault/ai_gitbook_download/main/dl_gitbook_simple.sh
    chmod +x dl_gitbook_simple.sh
    ```
 
